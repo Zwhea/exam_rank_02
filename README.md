@@ -1,6 +1,6 @@
 # Exam Details
 
-This exam has 4 questions in total. A random question is picked from each level below. 
+This exam has 4 questions in total. A random question is picked from each level below.
 
 If you fail the exam, when you retake the exam next time, you will restart at Level 1 again.
 
@@ -8,13 +8,13 @@ If you fail the exam, when you retake the exam next time, you will restart at Le
 
 # Exam Norminette
 
-There is no Norminette in this exam. 
+There is no Norminette in this exam.
 
 <br>
 
 # Exam Questions
 
-### Question 1 is from Level 1
+### Level 1
 ```
   - first_word
   - fizzbuzz
@@ -30,7 +30,7 @@ There is no Norminette in this exam.
   - ulstr 
 ```
 
-### Question 2 is from Level 2
+### Level 2
 ```
   - alpha_mirror
   - camel_to_snake
@@ -53,7 +53,7 @@ There is no Norminette in this exam.
   - union
   - wdmatch 
 ```
-### Question 3 is from Level 3
+### Level 3
 ```
   - add_prime_sum
   - epur_str
@@ -71,7 +71,7 @@ There is no Norminette in this exam.
   - str_capitalizer
   - tab_mult 
 ```
-### Question 4 is from Level 4
+### Level 4
 ```
   - flood_fill
   - fprime
@@ -89,10 +89,11 @@ There is no Norminette in this exam.
 
 # Exam Login Details
 
-    login -> exam
-    password -> exam
-
 Type examshell in terminal
+
+    examshell
+
+Then enter your login and password
 
     login -> your 42 intra username (eg. prossi)
     pasword -> your password
@@ -110,14 +111,14 @@ In the  examshell, you have only the following 3 commands:
 Open new terminal
 
     You can find your exam subject in the directory subject
-    Then you can see directory Rendu. It is your repository.
-    You must create a folder named by the project and start working.
+    Then you can see directory rendu. It is your repository.
+    You must create a folder named after the project and start working.
     
 # Exam Submission Details
 
 When you are ready to sumbit your function/program, go into Rendu and push the folder you created by doing the following:
 
-1. git add <folder name>
+1. git add .
 
 2. git status
 
@@ -133,10 +134,9 @@ When you are ready to sumbit your function/program, go into Rendu and push the f
 
 You should be able to use both VSCode and Vim in the exam.
 
-[![My Skills](https://skillicons.dev/icons?i=vim)](https://skillicons.dev)
 
 <br>
 
 # Exam Practice
 
-Practice the exam just like you would in the real exam using this tool - https://github.com/JCluzet/42_EXAM
+Practice the exam just like you would in the real exam using this tool - [Grademe](https://skillicons.dev)
